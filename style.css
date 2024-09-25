@@ -1,10 +1,9 @@
-.container{
-    margin-top: auto;
-    border: 1px;
-    border-radius: 10px;
+.container {
+  margin-top: auto;
+  border: 1px;
+  border-radius: 10px;
 }
 
-h3{
-    color: blue;
-    
+h3 {
+  color: yellow;
 }
